@@ -1,4 +1,4 @@
-# event-bus
+# slots
 
 > A Vue.js project
 
